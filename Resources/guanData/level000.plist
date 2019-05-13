@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>element</key>
+	<array>
+	<dict>
+			<key>picpath</key>
+			<string>ninja_body00000.png</string>
+			<key>id</key>
+			<string>Ninja</string>
+			<key>src</key>
+			<string>game</string>
+			<key>px</key>
+			<string>200</string>
+			<key>py</key>
+			<string>140</string>
+			<key>vertex</key>
+			<string>a</string>
+			<key>flip</key>
+			<string>false</string>
+		</dict>		
+		<dict>
+			<key>picpath</key>
+			<string>cage_close0000.png</string>
+			<key>id</key>
+			<string>C1</string>
+			<key>src</key>
+			<string>game</string>
+			<key>px</key>
+			<string>800</string>
+			<key>py</key>
+			<string>150</string>
+			<key>vertex</key>
+			<string>a</string>
+			<key>flip</key>
+			<string>false</string>
+		</dict>
+	</array>
+</dict>
+</plist>
